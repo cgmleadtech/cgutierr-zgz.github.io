@@ -1,0 +1,23 @@
+name: pre-merge
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  semantic-pull-request:
+    uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/semantic_pull_request.yml@v1
+
+  hugo-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📚 Git Checkout
+        uses: actions/checkout@v3.0.2
+
+      - name: 🤫 Install HUGO
+        run: brew install hugo
+
+      - name: 🔨 Build Web
+        run: hugo

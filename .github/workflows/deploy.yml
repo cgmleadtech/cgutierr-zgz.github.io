@@ -1,0 +1,34 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  hugo-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📚 Git Checkout
+        uses: actions/checkout@v3.0.2
+
+      - name: 🎨Update theme
+        run: git submodule update --init --recursive
+
+      - name: 🤫 Install HUGO
+        run: brew install hugo
+
+      - name: 🔨 Build Web
+        run: hugo --minify
+
+
+      - name: 🛥 Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: cgutierr-zgz/cgutierr-zgz.github.io
+          publish_dir: ./public
+          user_name: cgutierr-zgz
+          user_email: carlosgutimo.3d@gmail.com
+          publish_branch: master
