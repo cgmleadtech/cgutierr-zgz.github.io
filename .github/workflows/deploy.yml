@@ -30,5 +30,6 @@ jobs:
           external_repository: cgutierr-zgz/cgutierr-zgz.github.io
           publish_dir: ./public
           user_name: cgutierr-zgz
+          keep_files: true
           user_email: carlosgutimo.3d@gmail.com
           publish_branch: deploy
