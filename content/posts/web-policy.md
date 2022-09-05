@@ -37,7 +37,7 @@ UseHugoToc: true
 #    appendFilePath: true # to append file path to Edit link
 ---
 # PRIVACY POLICY
-This Privacy Policy sets forth the terms under which [**carlosgutimo.es**](https://carlosgutimo.es/) uses and protects the information provided by its users when using its website.
+This Privacy Policy sets forth the terms under which [**cgutierr-zgz.github.io**](https://cgutierr-zgz.github.io/) uses and protects the information provided by its users when using its website.
 provided by its users at the time of using its website. We are committed to the security
 of its users' data.
 This Privacy Policy may change over time or be updated so we encourage and emphasize you to continually review this page.
@@ -75,4 +75,4 @@ confirm that you agree with them.
 Because we do not collect any data, you do not need to control what personal information we have,
 This company will not sell, give or distribute any personal information, as it is not collected, and if it is, it will be with your consent.
 if it were, it would be with your explicit consent, unless required by a judge with a court order.
-[**carlosgutimo.es**](https://carlosgutimo.es/) reserves the right to change the terms of this Privacy Policy at any time.
+[**cgutierr-zgz.github.io**](https://cgutierr-zgz.github.io/) reserves the right to change the terms of this Privacy Policy at any time.

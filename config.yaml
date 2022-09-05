@@ -1,4 +1,4 @@
-baseURL: "https://carlosgutimo.es/"
+baseURL: "https://cgutierr-zgz.github.io/"
 title: carlosgutimo
 paginate: 5
 theme: PaperMod
@@ -98,7 +98,7 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: |
-      Contact me at carlos@carlosgutimo.es
+      Contact me at carlosgutimo.3d@gmail.com
 
   #socialIcons:
   #  - name: linkedin
@@ -161,8 +161,8 @@ menu:
     #  url: /tags/
     #  weight: 20
     #- identifier: carlosgutimo
-    #  name: carlosgutimo.es
-    #  url: https://carlosgutimo.es
+    #  name: cgutierr-zgz.github.io/
+    #  url: https://cgutierr-zgz.github.io/
     #  weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

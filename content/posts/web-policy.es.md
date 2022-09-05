@@ -37,7 +37,7 @@ UseHugoToc: true
 #    appendFilePath: true # to append file path to Edit link
 ---
 # POLÍTICA DE PRIVACIDAD
-El presente Política de Privacidad establece los términos en que [**carlosgutimo.es**](https://carlosgutimo.es/) usa y protege la información que es
+El presente Política de Privacidad establece los términos en que [**cgutierr-zgz.github.io**](https://cgutierr-zgz.github.io/) usa y protege la información que es
 proporcionada por sus usuarios al momento de utilizar su sitio web. Estamos comprometidas con la seguridad
 de los datos de sus usuarios.
 Esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y
@@ -75,5 +75,5 @@ confirmar que usted está de acuerdo con estas.
 Al no recopilar ningún tipo de dato no tiene necesidad de controlar que tipo de información personal tenemos,
 pues esta compañía no venderá, cederá ni distribuirá ninguna información personal, ya que no es recopilada, y
 si lo fuese, sería con su consentimiento explícito, salvo que sea requerido por un juez con un orden judicial.
-[**carlosgutimo.es**](https://carlosgutimo.es/) Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier
+[**cgutierr-zgz.github.io**](https://cgutierr-zgz.github.io/) Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier
 momento.
