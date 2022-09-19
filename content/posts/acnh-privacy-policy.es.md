@@ -37,7 +37,7 @@ UseHugoToc: true
 #    appendFilePath: true # to append file path to Edit link
 ---
 # POLÍTICA DE PRIVACIDAD
-El presente Política de Privacidad establece los términos en que [**ACNH Guide. An Unofficial Animal Crossing Guide**](https://play.google.com/store/apps/details?id=es.carlosgutimo.acnhguide) usa y protege la información que es proporcionada por sus usuarios al momento de utilizar la aplicación.
+El presente Política de Privacidad establece los términos en que [**ACNH Guide. An Unofficial Animal Crossing Guide**](https://play.google.com/store/apps/developer?id=cgutierr) usa y protege la información que es proporcionada por sus usuarios al momento de utilizar la aplicación.
 Estamos comprometidos con la seguridad de los datos de sus usuarios.
 Esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y
 enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
@@ -65,6 +65,6 @@ confirmar que usted está de acuerdo con estas.
 Al no recopilar ningún tipo de dato no tiene necesidad de controlar que tipo de información personal tenemos,
 pues esta compañía no venderá, cederá ni distribuirá ninguna información personal, ya que no es recopilada, y
 si lo fuese, sería con su consentimiento explícito, salvo que sea requerido por un juez con un orden judicial.
-[**ACNH Guide. An Unofficial Animal Crossing Guide**](https://play.google.com/store/apps/details?id=es.carlosgutimo.acnhguide)
+[**ACNH Guide. An Unofficial Animal Crossing Guide**](https://play.google.com/store/apps/developer?id=cgutierr)
 Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier
 momento.
