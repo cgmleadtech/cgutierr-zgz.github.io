@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: 📚 Git Checkout
-        uses: actions/checkout@v3.0.2
+        uses: actions/checkout@v3.1.0
 
       - name: 🤫 Install HUGO
         run: brew install hugo

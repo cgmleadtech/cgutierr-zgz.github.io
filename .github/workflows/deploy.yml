@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: 📚 Git Checkout
-        uses: actions/checkout@v3.0.2
+        uses: actions/checkout@v3.1.0
 
       - name: 🎨Update theme
         run: git submodule update --init --recursive
