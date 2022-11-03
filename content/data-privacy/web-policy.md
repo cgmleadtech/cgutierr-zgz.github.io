@@ -1,40 +1,28 @@
 ---
-title: Website
-date: 2020-08-25
-# weight: 1
-# aliases: ["/first"]
-tags: ["data-privacy", "web", "hugo", "portfolio"]
-author: "carlosgutimo"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: "Data Privacy statement."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+author: "cgutierr-zgz"
 
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
+# TODO(dev): Fill the fields below
+
+title: Website
+date: 2022-11-03
+tags: ["data-privacy", "web", "hugo"]
+description: "Data Privacy statement."
+summary: "Data Privacy for cgutierr-zgz Website."
+draft: false
+disableShare: true
+searchHidden: true
 ---
 # PRIVACY POLICY
 This Privacy Policy sets forth the terms under which [**cgutierr-zgz.github.io**](https://cgutierr-zgz.github.io/) uses and protects the information provided by its users when using its website.

@@ -15,18 +15,14 @@ author: "cgutierr-zgz"
 
 # TODO(dev): Fill the fields below
 
-title: "Post Name"
+title: "My first Post"
 date: 1996-11-28
-tags: ["tag1", "tag2"]
+tags: ["flutter", "dart"]
 description: "Post description."
 summary: "Post summary."
-draft: true
+draft: false
 disableShare: false
 searchHidden: true
-
-cover:
-    image: "./favicon.ico"
-    hidden: true
 ---
 
 Hi!
@@ -37,7 +33,7 @@ This is my first post.
 
 ```dart
 void main(){
-	// {linenos=table} is used to show line numbers
+    // {linenos=table} is used to show line numbers
     print("Hello World!");
 }
 ```

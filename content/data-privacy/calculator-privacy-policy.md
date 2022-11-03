@@ -1,43 +1,31 @@
 ---
-title: Flashlight
-date: 2020-08-31
-# weight: 1
-# aliases: ["/first"]
-tags: ["data-privacy", "flashlight", "android", "app"]
-author: "carlosgutimo"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: "Data Privacy statement."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+author: "cgutierr-zgz"
 
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
+# TODO(dev): Fill the fields below
+
+title: Calculator
+date: 2022-09-15
+tags: ["data-privacy", "calculator", "android", "app"]
+description: "Data Privacy statement."
+summary: "Data Privacy for Calculator App."
+draft: false
+disableShare: true
+searchHidden: true
 ---
 # PRIVACY POLICY
-This Privacy Policy sets forth the terms under which [**Flashlight App**](https://play.google.com/store/apps/developer?id=cgutierr)
+This Privacy Policy sets forth the terms under which [**Calculator App**](https://play.google.com/store/apps/developer?id=cgutierr)
 uses and protects the information that is provided by its users when using the application.
 We are committed to the security of its users' data.
 This Privacy Policy may change over time or be updated from time to time so we encourage and emphasize you to continually review this page.
@@ -65,5 +53,5 @@ confirm that you are in agreement with these policies.
 Because we do not collect any data, you do not need to control what personal information we have,
 This company will not sell, give away or distribute any personal information, as it is not collected, and if it is, it will be with your consent.
 if it were, it would be with your explicit consent, unless required by a judge with a court order.
-[**Flashlight App**](https://play.google.com/store/apps/developer?id=cgutierr)
+[**Calculator App**](https://play.google.com/store/apps/developer?id=cgutierr)
 We reserve the right to change the terms of this Privacy Policy at any time.
